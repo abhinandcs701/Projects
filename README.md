@@ -31,4 +31,4 @@ Regression, Decision Trees, K-Means Clustering
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
-3. Open `student_performance_FINAL.ipynb` in Jupyter and run all cells
+3. Open `Untitled-1.ipynb` in Jupyter and run all cells
