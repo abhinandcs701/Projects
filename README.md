@@ -25,7 +25,7 @@ EDA, t-tests, ANOVA, chi-square, Cohen's d, Linear Regression, Logistic
 Regression, Decision Trees, K-Means Clustering
 
 ## 📁 Files
-- `student_performance_FINAL.ipynb` — full analysis notebook
+- `Untitled-1.ipynb` — full analysis notebook
 - `studentperfomance.csv` — dataset
 
 ## 🚀 How to Run
